@@ -1,0 +1,9 @@
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.xml
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.vbproj.GenerateResource.Cache
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.xml
+C:\Users\GerónimoBanegasKnutt\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.pdb
